@@ -4,6 +4,9 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
+.hidden {
+  display: none;
+}
 .page-info {
   width: 500px;
   margin: 0 auto;
