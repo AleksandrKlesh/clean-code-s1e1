@@ -134,7 +134,7 @@ h3 {
 }
 
 /* Completed */
-#completed-tasks .label {
+.complited-tasks .list-item .label {
   text-decoration: line-through;
   color: #888;
 }
